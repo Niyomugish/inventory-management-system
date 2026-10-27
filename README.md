@@ -1,3 +1,4 @@
+git commit -m "Resolve README merge conflict"<<<<<<< HEAD
 # StockFlow - Inventory Management System
 
 A full-stack Inventory Management application built with **React + Tailwind CSS** (Frontend), **Node.js + Express** (Backend), and **XAMPP MySQL** (Database: `inventory_management`).
@@ -82,3 +83,7 @@ npm run dev
 6. **User Management (`/users`)** *(Admin only)*:
    - View registered users and roles.
    - Create new Admin or Manager accounts.
+=======
+# inventory-management-system
+it holds stock management system made in new stacks
+>>>>>>> a15f0841398798a484d08e772be8cd1957c36e2f
